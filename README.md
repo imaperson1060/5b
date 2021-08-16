@@ -8,6 +8,12 @@ This is the source code for my [BFDIA 5b](https://bfdi.tv/5b) mod
 
 
 
+## How can I open this?
+
+You need Adobe Flash CS6 or later (or CS5 with [Flannel](https://ajarproductions.com/blog/2012/03/06/flannel-open-newer-fla-files)).
+
+
+
 ## Looking to download?
 
 Head over to the [releases](https://github.com/meisels/5b/releases) tab or my [website](https://5blevels.com)
